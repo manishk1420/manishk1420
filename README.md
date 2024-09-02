@@ -1,4 +1,3 @@
-<!--[Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h1 align="center">Hi 👋, I'm Manish t <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
 <h1>
   <a href="https://git.io/typing-svg">
